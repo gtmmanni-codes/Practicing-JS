@@ -13,5 +13,13 @@ html,body{
     font-weight: 400;
 }
 .container{
-
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap :10px;
+    height: 90%;
+    width: 100%;
+    background-color: grey;
+}
+.box{
+    background-color: aliceblue;
 }
