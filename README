@@ -19,3 +19,4 @@ grid-template-columns
 gap
 display: flex
 justify-content
+align-items
