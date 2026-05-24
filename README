@@ -17,3 +17,4 @@ Important CSS Concepts Used
 display: grid
 grid-template-columns
 gap
+display: flex
