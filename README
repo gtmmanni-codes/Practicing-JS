@@ -12,3 +12,8 @@ Responsive columns using repeat()
 Centered content using Flexbox
 Simple and clean UI design
 Multiple content boxes
+
+Important CSS Concepts Used
+display: grid
+grid-template-columns
+gap
