@@ -5,3 +5,10 @@ HTML structure
 CSS Grid layout
 Flexbox alignment
 Responsive webpage design
+
+Features
+Grid layout using display: grid
+Responsive columns using repeat()
+Centered content using Flexbox
+Simple and clean UI design
+Multiple content boxes
