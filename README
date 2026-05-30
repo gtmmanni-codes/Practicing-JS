@@ -28,5 +28,16 @@ Learning fieldset
 
 A responsive front-end clone of the Microsoft homepage built using HTML5 and CSS3. This project recreates key sections of the Microsoft website, including a navigation bar, hero section, product cards, social media section, and footer.
 
+## 📌 Features
+
+- Responsive Navigation Bar
+- Hero Banner Section
+- Product Categories Icons
+- Product Cards Display
+- Social Media Links Section
+- Multi-column Footer
+- Modern UI Design using CSS Flexbox and Grid
+- Font Awesome Icons Integration
+
 Author
 Gautam Manni
