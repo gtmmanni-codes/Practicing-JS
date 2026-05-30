@@ -21,9 +21,12 @@ display: flex
 justify-content
 align-items
 
-
 Learning forms
 Learning fieldset
+
+# Microsoft Clone Website
+
+A responsive front-end clone of the Microsoft homepage built using HTML5 and CSS3. This project recreates key sections of the Microsoft website, including a navigation bar, hero section, product cards, social media section, and footer.
 
 Author
 Gautam Manni
